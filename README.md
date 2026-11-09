@@ -133,8 +133,8 @@ Os dados foram persistidos no Amazon S3 e recuperados posteriormente para valida
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd Projeto_Pandas
+git clone https://github.com/brenocampos13/projeto-engenharia-dados-aws-databricks
+cd projeto-engenharia-dados-aws-databricks
 ```
 
 ### 2. Criar ambiente virtual
